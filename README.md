@@ -1,2 +1,2 @@
 # hello_world
-My first repo
+My name is Leslie, I love Coursera
